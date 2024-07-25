@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DOMOWY\\Desktop\\calculator\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5937D47E-5985-42B8-9C23-8E9584A98A69}|Calculator\\Calculator.pyproj|C:\\Users\\DOMOWY\\Desktop\\calculator\\Calculator\\Calculator\\Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5937D47E-5985-42B8-9C23-8E9584A98A69}|Calculator\\Calculator.pyproj|solutionrelative:Calculator\\Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.py",
+              "DocumentMoniker": "C:\\Users\\DOMOWY\\Desktop\\calculator\\Calculator\\Calculator\\Calculator.py",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.py",
+              "ToolTip": "C:\\Users\\DOMOWY\\Desktop\\calculator\\Calculator\\Calculator\\Calculator.py",
+              "RelativeToolTip": "Calculator\\Calculator.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-25T11:58:36.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
